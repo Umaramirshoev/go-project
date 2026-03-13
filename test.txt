@@ -1,3 +1,0 @@
-Hello a
-Hello b
-Hello c
